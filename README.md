@@ -16,6 +16,6 @@ An interactive Power BI dashboard developed to analyze COVID-19 trends, includin
 - DAX
 
 ## Dashboard Preview
-![Dashboard 1](Summary-DB.png)
-![Dashboard 2](Continent-DB.png)
-![Dashboard 3](Country-DB.png)
+![Dashboard 1](Summary_DB.png)
+![Dashboard 2](Continent_DB.png)
+![Dashboard 3](Country_DB.png)
